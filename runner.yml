@@ -1,4 +1,4 @@
-name: Hello World
+name: Hello World Facile
 on: [push]
 jobs:
   Hello-World-Job:
